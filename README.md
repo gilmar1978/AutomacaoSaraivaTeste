@@ -36,4 +36,4 @@ Após a execução será criado um diretório na raíz do projeto de nome screen
 [Java Docs](https://docs.oracle.com/en/java/)<br />
 [Selenium Docs](https://www.selenium.dev/documentation/en/)<br />
 [JUnit Docs](https://junit.org/junit5/docs/current/user-guide/)<br />
-[Cucumber Docs](https://cucumber.io/docs/cucumber/)
+[Cucumber Docs](https://cucumber.io/docs/cucumber/)#
